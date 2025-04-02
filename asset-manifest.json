@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Primer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Primer/static/js/main.8ade8694.chunk.js",
+    "main.js.map": "/React-Primer/static/js/main.8ade8694.chunk.js.map",
+    "runtime~main.js": "/React-Primer/static/js/runtime~main.89aee531.js",
+    "runtime~main.js.map": "/React-Primer/static/js/runtime~main.89aee531.js.map",
+    "static/js/2.c7821bdd.chunk.js": "/React-Primer/static/js/2.c7821bdd.chunk.js",
+    "static/js/2.c7821bdd.chunk.js.map": "/React-Primer/static/js/2.c7821bdd.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/React-Primer/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/React-Primer/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/React-Primer/index.html",
+    "precache-manifest.b001e6bfb72464c2996e4dd20cc6a6f1.js": "/React-Primer/precache-manifest.b001e6bfb72464c2996e4dd20cc6a6f1.js",
+    "service-worker.js": "/React-Primer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Primer/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
